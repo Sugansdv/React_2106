@@ -10,7 +10,7 @@ function Resume() {
         <h4 className="mb-3 text-success">Experience</h4>
         <ul className="list-group shadow-sm">
           <li className="list-group-item">
-            <strong>Python Full Stack Trainee</strong> at <span className="text-info">VTS</span> (2024 - Present)
+            <strong>Python Full Stack Trainee</strong> at <span className="text-info">VTS</span> (Feb 2025 - Present)
             <br />
             Trained on HTML, CSS, JavaScript, and React. Built real-world projects and practiced end-to-end development.
           </li>
