@@ -4,22 +4,22 @@ import './Work.css'
 function Work() {
   const projects = [
     {
-      title: 'Project One',
-      desc: 'A React app for Grocery shopping.',
+      title: 'Baby Products shopping',
+      desc: '',
       link: '#',
-      image: '/images/project1.jpg'
+      image: '/Baby_Products.jpg'
     },
     {
-      title: 'Project Two',
-      desc: 'A portfolio website.',
+      title: 'Home Services',
+      desc: '',
       link: '#',
-      image: '/images/project2.jpg'
+      image: '/Home_Service.jpg'
     },
     {
-      title: 'Project Three',
-      desc: 'Employee Payroll.',
+      title: 'Personalized Diet Nutrition Planner WEbsite',
+      desc: '',
       link: '#',
-      image: '/images/project3.jpg'
+      image: '/Personalized_Diet_Nutrition_Planner.jpg'
     }
   ];
 

@@ -10,7 +10,7 @@ function About() {
       <div className="row align-items-center mb-5">
         <div className="col-md-4 text-center">
           <img
-            src="/vite.svg"
+            src="/profile_img.jpg"
             alt="Profile"
             className="rounded-circle img-fluid shadow"
             style={{ width: '200px', height: '200px', objectFit: 'cover' }}
